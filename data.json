@@ -1,0 +1,307 @@
+[
+  {
+    "nome": "Ordem Paranormal",
+    "data_criacao": 2020,
+    "criador": [
+      "Cellbit"
+    ],
+    "descricao": "Ordem Paranormal é um sistema de RPG brasileiro que combina elementos de horror, investigação e ação. Nele, os jogadores assumem o papel de agentes de uma organização secreta que lida com ameaças sobrenaturais, como fantasmas, zumbis e outras entidades paranormais. O sistema utiliza mecânicas que enfatizam a narrativa e a construção de personagens, permitindo aos jogadores explorar temas sombrios e complexos enquanto enfrentam desafios sobrenaturais.",
+    "link": "https://ordemparanormal.com.br",
+    "imagem_capa": "assets/capas/ordem-paranormal.jpg",
+    "tags": [
+        "Horror",
+        "Investigação",
+        "Sobrenatural",
+        "RPG Brasileiro"
+    ]
+  },
+  {
+    "nome": "Tormenta 20 RPG",
+    "data_criacao": 2020,
+    "criador": [
+      "J.M. Trevisan",
+      "Rogério Saladino",
+      "Marcelo Cassaro"
+    ],
+    "descricao": "Tormenta 20 RPG é um sistema de RPG brasileiro ambientado no mundo de Arton, um cenário de fantasia repleto de magia, monstros e aventuras épicas. O sistema é conhecido por sua riqueza de detalhes, diversidade de raças e classes, além de uma vasta gama de equipamentos e magias. Tormenta 20 RPG é a versão atualizada e comemorativa de 20 anos do universo Tormenta original, que utiliza um sistema baseado em dados de vinte faces (d20) e é amplamente popular no Brasil.",
+    "link": "https://site.jamboeditora.com.br/tormenta20/",
+    "imagem_capa": "assets/capas/tormenta-20.jpg",
+    "tags": [
+        "Fantasia",
+        "Aventura",
+        "d20",
+        "RPG Brasileiro"
+    ]
+  },
+  {
+    "nome": "Dungeons & Dragons 5ª Edição",
+    "data_criacao": 2014,
+    "criador": [
+      "Wizards of the Coast"
+    ],
+    "descricao": "Dungeons & Dragons 5ª Edição (D&D 5e) é a versão mais recente do icônico jogo de RPG de fantasia. Os jogadores criam personagens heroicos que embarcam em aventuras em um mundo de magia e monstros. O Mestre do Jogo (Dungeon Master) narra a história e controla os desafios, enquanto os jogadores decidem as ações de seus personagens. O sistema é conhecido por sua flexibilidade, regras simplificadas em comparação com edições anteriores e um forte foco na narrativa e na interpretação de papéis.",
+    "link": "https://dnd.wizards.com/",
+    "imagem_capa": "assets/capas/dnd-5e.jpg",
+    "tags": [
+        "Fantasia",
+        "Aventura",
+        "Clássico"
+    ]
+  },
+  {
+    "nome": "Call of Cthulhu",
+    "data_criacao": 1981,
+    "criador": [
+      "Sandy Petersen",
+      "Chaosium"
+    ],
+    "descricao": "Call of Cthulhu é um RPG de horror cósmico baseado nas obras de H.P. Lovecraft. Os jogadores assumem o papel de investigadores comuns que se deparam com mistérios aterrorizantes e conspirações de cultos e criaturas ancestrais. O jogo foca em mistério, investigação e a fragilidade da mente humana diante do horror incompreensível. A sanidade dos personagens é uma mecânica central, diminuindo à medida que eles testemunham eventos perturbadores.",
+    "link": "https://www.chaosium.com/call-of-cthulhu-rpg/",
+    "imagem_capa": "assets/capas/coc.png",
+    "tags": [
+        "Horror",
+        "Investigação",
+        "Sobrenatural"
+    ]
+  },
+  {
+    "nome": "Vampiro: A Máscara",
+    "data_criacao": 1991,
+    "criador": [
+      "Mark Rein-Hagen",
+      "White Wolf Publishing"
+    ],
+    "descricao": "Vampiro: A Máscara é um RPG de horror pessoal e intriga política ambientado no Mundo das Trevas, uma versão gótica e sombria do nosso mundo. Os jogadores interpretam vampiros, seres imortais que lutam para manter sua humanidade enquanto lidam com a fome por sangue (a Besta interior) e navegam pelas complexas sociedades e conspirações de sua espécie. O jogo enfatiza a narrativa, o drama pessoal e a moralidade em um cenário de conflito eterno.",
+    "link": "https://www.worldofdarkness.com/vampire-the-masquerade",
+    "imagem_capa": "assets/capas/vampiro-mascara.jpg",
+    "tags": [
+        "Horror",
+        "Sobrenatural",
+        "Intriga",
+        "Mundo das Trevas"
+    ]
+  },
+  {
+    "nome": "Pathfinder Segunda Edição",
+    "descricao": "Sistema de fantasia heroica com foco em combate tático baseado em regras d20, sucessor espiritual do D&D 3.5.",
+    "data_criacao": "2019",
+    "link": "https://paizo.com/pathfinder",
+    "tags": [
+      "Fantasia",
+      "Tática",
+      "Aventura",
+      "d20"
+    ],
+    "imagem_capa": "assets/capas/pathfinder.jpg"
+  },
+  {
+    "nome": "Savage Worlds",
+    "descricao": "Sistema genérico 'Fast! Furious! Fun!' conhecido por sua versatilidade para emular diversos gêneros e seu uso de dados especiais (Wild Dice).",
+    "data_criacao": "2003",
+    "link": "https://www.peginc.com/product-category/savage-worlds/",
+    "tags": [
+      "Aventura",
+      "Pulp",
+      "Genérico",
+      "Ação"
+    ],
+    "imagem_capa": "assets/capas/savage-worlds.jpg"
+  },
+  {
+    "nome": "GURPS (Generic Universal RolePlaying System)",
+    "descricao": "Sistema universal de alta simulação baseado em 3d6, famoso por sua complexidade modular e capacidade de cobrir qualquer gênero imaginável.",
+    "data_criacao": "1986",
+    "link": "https://www.sjgames.com/gurps/",
+    "tags": [
+      "Simulação",
+      "Universal",
+      "Realismo",
+      "Tática",
+      "Ficção Científica"
+    ],
+    "imagem_capa": "assets/capas/gurps.jpg"
+  },
+  {
+    "nome": "Fate Core",
+    "descricao": "Sistema de RPG focado em narrativa, onde a história e o drama dos personagens (Aspectos) têm mais peso do que as regras de combate puro.",
+    "data_criacao": "2013",
+    "link": "https://www.evilhat.com/fate-core/",
+    "tags": [
+      "Narrativa",
+      "Drama",
+      "Genérico",
+      "Flexível"
+    ],
+    "imagem_capa": "assets/capas/fate-core.jpg"
+  },
+  {
+    "nome": "Cypher System",
+    "descricao": "Sistema baseado no d20 onde os jogadores definem a dificuldade (Target Number) e a gestão de recursos (Pools) é central à mecânica.",
+    "data_criacao": "2015",
+    "link": "https://www.montecookgames.com/cypher-system/",
+    "tags": [
+      "Ficção Científica",
+      "Fantasia",
+      "Mistério",
+      "Genérico"
+    ],
+    "imagem_capa": "assets/capas/cypher-system.jpg"
+  },
+  {
+    "nome": "Kult: Divindade Perdida",
+    "descricao": "RPG de horror existencial e moderno, onde a realidade é uma ilusão (A Morte) e os personagens buscam escapar desta prisão.",
+    "data_criacao": "2018",
+    "link": "https://kultdivineintervention.com/",
+    "tags": [
+      "Horror",
+      "Existencial",
+      "Gótico",
+      "Investigação"
+    ],
+    "imagem_capa": "assets/capas/kult.jpg"
+  },
+  {
+    "nome": "Blades in the Dark",
+    "descricao": "Sistema PbtA (Forged in the Dark) focado em operações criminosas em uma cidade industrial sombria e assombrada (Doskvol).",
+    "data_criacao": "2017",
+    "link": "https://bladesinthedark.com/",
+    "tags": [
+      "Steampunk",
+      "Ação",
+      "Criminoso",
+      "Narrativa"
+    ],
+    "imagem_capa": "assets/capas/blades-in-the-dark.png"
+  },
+  {
+    "nome": "Apocalypse World",
+    "descricao": "O sistema que deu origem ao movimento Powered by the Apocalypse (PbtA), focando em drama interpessoal e no caos de um futuro pós-apocalíptico.",
+    "data_criacao": "2010",
+    "link": "http://apocalypse-world.com/",
+    "tags": [
+      "Pós-apocalíptico",
+      "Narrativa",
+      "Drama",
+      "PbtA"
+    ],
+    "imagem_capa": "assets/capas/apocalypse-world.jpg"
+  },
+  {
+    "nome": "Cyberpunk RED",
+    "descricao": "O sucessor direto de Cyberpunk 2020, ambientado na Era do Vermelho, onde corporações e tecnologia ditam as regras na distópica Night City.",
+    "data_criacao": "2020",
+    "link": "https://rtalsoriangames.com/cyberpunk/",
+    "tags": [
+      "Cyberpunk",
+      "Ficção Científica",
+      "Distopia",
+      "Ação"
+    ],
+    "imagem_capa": "assets/capas/cyberpunk-red.jpg"
+  },
+  {
+    "nome": "Starfinder",
+    "descricao": "RPG de fantasia científica que combina o tático do D&D com exploração espacial, naves e raças alienígenas.",
+    "data_criacao": "2017",
+    "link": "https://paizo.com/starfinder",
+    "tags": [
+      "Ficção Científica",
+      "Fantasia Espacial",
+      "Aventura",
+      "d20"
+    ],
+    "imagem_capa": "assets/capas/starfinder.png"
+  },
+  {
+    "nome": "Shadowrun",
+    "descricao": "Futuro distópico onde a megacorporações governam e a magia e as criaturas míticas retornaram, misturando cyberpunk e fantasia urbana.",
+    "data_criacao": "1989",
+    "link": "https://www.shadowrun.com/",
+    "tags": [
+      "Cyberpunk",
+      "Fantasia Urbana",
+      "Magia",
+      "Ação"
+    ],
+    "imagem_capa": "assets/capas/shadowrun.png"
+  },
+  {
+    "nome": "Alien RPG",
+    "descricao": "RPG oficial baseado na franquia de cinema Alien, focando em horror de sobrevivência, ficção científica sombria e claustrofobia.",
+    "data_criacao": "2019",
+    "link": "https://www.alien-rpg.com/",
+    "tags": [
+      "Ficção Científica",
+      "Terror",
+      "Sobrevivência",
+      "Horror"
+    ],
+    "imagem_capa": "assets/capas/alien-rpg.jpg"
+  },
+  {
+    "nome": "Traveller",
+    "descricao": "Um dos RPGs de ficção científica mais antigos, focado em exploração espacial, comércio e hard sci-fi, com mecânicas famosas de criação de personagem.",
+    "data_criacao": "1977",
+    "link": "https://www.mongoosepublishing.com/products/traveller-core-rulebook-2022",
+    "tags": [
+      "Ficção Científica",
+      "Exploração",
+      "Hard Sci-Fi",
+      "Aventura"
+    ],
+    "imagem_capa": "assets/capas/traveller.jpg"
+  },
+  {
+    "nome": "Lancer",
+    "descricao": "RPG tático de combate de Mechas (robôs gigantes) com forte foco em personalização, tática de grade e narrativa Sci-Fi militar.",
+    "data_criacao": "2019",
+    "link": "https://massif.netlify.app/",
+    "tags": [
+      "Mechas",
+      "Tática",
+      "Ficção Científica",
+      "Militar"
+    ],
+    "imagem_capa": "assets/capas/lancer.jpg"
+  },
+  {
+    "nome": "Numenera",
+    "descricao": "RPG ambientado na Nona Era da Terra, um futuro tão distante que a tecnologia avançada de eras passadas é indistinguível de magia.",
+    "data_criacao": "2013",
+    "link": "https://www.montecookgames.com/store/product/numenera-discovery-and-destiny/",
+    "tags": [
+      "Fantasia",
+      "Ficção Científica",
+      "Exploração",
+      "Cypher System"
+    ],
+    "imagem_capa": "assets/capas/numenera.png"
+  },
+  {
+    "nome": "Rastro de Cthulhu (Trail of Cthulhu)",
+    "descricao": "Sistema GUMSHOE focado em garantir que os investigadores sempre encontrem as pistas, movendo o foco para as consequências psicológicas do horror.",
+    "data_criacao": "2008",
+    "link": "https://www.pelgranepress.com/gumshoe/trail-of-cthulhu/",
+    "tags": [
+      "Investigação",
+      "Horror Cósmico",
+      "GUMSHOE",
+      "Suspense"
+    ],
+    "imagem_capa": "assets/capas/rastro-de-cthulhu.jpg"
+  },
+  {
+    "nome": "3D&T Alpha (Defensores de Tóquio)",
+    "descricao": "Sistema brasileiro simples e versátil, ideal para emular animes, mangás e tokusatsu, com foco em poderes exagerados (Superação) e humor.",
+    "data_criacao": "2011",
+    "link": "https://jamboeditora.com.br/produto/manual-3dt-alpha-edicao-revisada/",
+    "tags": [
+      "Anime",
+      "Aventura",
+      "Regras Leves",
+      "Genérico",
+      "Ação"
+    ],
+    "imagem_capa": "assets/capas/3d-t-alpha.png"
+  }
+]
